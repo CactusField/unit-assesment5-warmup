@@ -2,6 +2,7 @@
   "name": "unit-asses-5-warmup",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:4321",
   "main": "server/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
